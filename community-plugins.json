@@ -24537,7 +24537,7 @@
   {
     "id": "worklog",
     "name": "Worklog",
-    "author": "352662115-hub",
+    "author": "Yue Zenglei",
     "description": "This plugin has not been manually reviewed by Obsidian staff. Monthly worklog tracker with tasks, time entries, calendar, and local JSON storage.",
     "repo": "352662115-hub/worklog-obsidian-plugin"
   },
